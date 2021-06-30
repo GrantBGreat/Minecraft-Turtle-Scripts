@@ -1,2 +1,2 @@
 # Minecraft-Turtle-Scripts
-Open-Source scripts for the ComputerCraft mining turtles
+Open-Source scripts for the ComputerCraft turtles
