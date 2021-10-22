@@ -1,5 +1,5 @@
 # Minecraft Turtle Scripts
-Open-Source scripts for the ComputerCraft turtles
+Open-Source scripts for the ComputerCraft turtles. These scripts were written for use on a [BrainCraft](https://realbraingames.com/#/braincraft) limited time modded server.
 
 # Basic Terminal Commands:
 | Command |     What it does    |
